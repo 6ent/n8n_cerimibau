@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "n8n_cerimibau"
+  site-url: "https://6ent.github.io/n8n_cerimibau"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/6ent/n8n_cerimibau"
